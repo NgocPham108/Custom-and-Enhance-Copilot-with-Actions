@@ -2,7 +2,7 @@
 
 Microsoft Copilot cung cấp khả năng mở rộng thông qua việc sử dụng các tác vụ (Actions) trong cả Declarative Agents và Custom Agents. Bài viết cung cấp một bản demo thực tế về việc sử dụng trình kết nối Adobe Acrobat để truy xuất danh sách thỏa thuận. Người dùng có thể thêm hành động vào tác nhân, kiểm tra các kết nối và xác thực quyền truy cập dữ liệu.
 
-# Phân biệt Declarative Agents và Custom Agents
+# Phân biệt Declarative Agents và Custom Agents 
 
 | **Declarative Agents**                                                                                                                                     | **Custom Agents**                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
