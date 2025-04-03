@@ -31,7 +31,7 @@ REST API: Nếu không có trình kết nối phù hợp, có thể sử dụng 
 Trong bài hướng dẫn này, chúng ta sẽ cùng tìm hiểu cách chọn và thiết lập một Custom Agent, cũng như cách mở rộng nó bằng cách tích hợp các hành động từ Adobe.
 Nếu bạn đang trong trình quản lý Agent, bạn sẽ chọn một Custom Agent. Đợi quá trình tải hoàn tất—lúc này, bạn sẽ thấy toàn bộ nội dung có sẵn bên trong Agent của mình.
 
-![alt text](screenshot-01JQXZZJHQFMFV7WX9GRG9J1PT.png)
+(screenshot-01JQXZZJHQFMFV7WX9GRG9J1PT.png)
 
 Đây là giao diện của Agent. Hiện tại, chúng ta chưa có nguồn kiến thức (Knowledge) nào. Tuy nhiên, chúng ta thấy rằng một số hành động liên quan đến Adobe đã được thêm vào trước đó. Điều này cho phép chúng ta mở rộng khả năng của Copilot để truy cập dữ liệu Adobe — từ việc tạo mẫu thư viện, tải lên tài liệu, đến các tác vụ khác.
 
